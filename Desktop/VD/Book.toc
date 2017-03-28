@@ -1,0 +1,6 @@
+\contentsline {chapter}{\numberline {1}Introduction}{5}
+\contentsline {section}{\numberline {1.1}what is video edition}{5}
+\contentsline {section}{\numberline {1.2}Background}{5}
+\contentsline {chapter}{\numberline {2}Video Editing SW and Hardware}{7}
+\contentsline {section}{\numberline {2.1}Video Editing Computer}{7}
+\contentsline {section}{\numberline {2.2}Storage Space on the Video Editing Computer}{7}
